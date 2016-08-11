@@ -10,6 +10,12 @@
 			"email": "email@kevinnoorlander.com"
 		}
 	],
+	"repositories": [
+		{
+        		"type": "vcs",
+			 "url": "https://github.com/kevinnoorlander/silverstripe-exact-client"
+    		}
+	],
 	"support": {
 		"issues": "http://github.com/kevinnoorlander/silverstripe-exact-client/issues"
 	},
