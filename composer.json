@@ -20,10 +20,8 @@
 		"issues": "http://github.com/kevinnoorlander/silverstripe-exact-client/issues"
 	},
 	"require": {	
-		"php" : ">=5.3.0",
-    		"composer/installers" : ">=1.0",
-    		"silverstripe/framework" : ">=3.0",
-    		"silverstripe/cms" : "~3.2",
+    		"silverstripe/framework": "~3.1",
+		"silverstripe/cms": "~3.1",
     		"picqer/exact-php-client" : "dev-master"
 	},
 	"extra": {
